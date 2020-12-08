@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-![Khiem's github stats](https://github-readme-stats.vercel.app/api?username=khiemdoan)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khiemdoan&layout=compact)](https://github.com/khiemdoan)
-
 <!--
 **khiemdoan/khiemdoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/khiemdoan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khiemdoan&show_icons=true&line_height=33&count_private=true" alt="hasherezade's GitHub Stats" />
+</a>
+
+<a href="https://github.com/khiemdoan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiemdoan&&hide=cmake&langs_count=4&line_height=35" />
+</a>
