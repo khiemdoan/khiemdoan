@@ -23,14 +23,6 @@ Here are some ideas to get you started:
 
 ## 📊 Github Stat
 
-<a href="https://github.com/khiemdoan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khiemdoan&show_icons=true&count_private=true&theme=dracula&line_height=40" alt="Khiem Doan's GitHub Stats" />
-</a>
-
-<a href="https://github.com/khiemdoan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiemdoan&theme=dracula&line_height=35" />
-</a>
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=khiemdoan&theme=gruvbox&show_icons=true&count_private=true&hide_border=true)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khiemdoan&theme=monokai)
