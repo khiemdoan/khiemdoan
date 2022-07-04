@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Github Status
+## 🏆 Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=khiemdoan&theme=gruvbox&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 Github Stat
 
 <a href="https://github.com/khiemdoan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khiemdoan&show_icons=true&count_private=true&theme=dracula&line_height=40" alt="Khiem Doan's GitHub Stats" />
@@ -26,3 +30,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/khiemdoan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiemdoan&theme=dracula&line_height=35" />
 </a>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=khiemdoan&theme=gruvbox&show_icons=true&count_private=true&hide_border=true)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khiemdoan&theme=monokai)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khiemdoan&theme=monokai)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khiemdoan&theme=monokai)
+
