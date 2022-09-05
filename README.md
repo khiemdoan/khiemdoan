@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## 📊 Github Stat
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=khiemdoan&theme=gruvbox&show_icons=true&count_private=true&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khiemdoan&theme=gruvbox&hide_border=true)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khiemdoan&theme=monokai)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khiemdoan&theme=monokai)
