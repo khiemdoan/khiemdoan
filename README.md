@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khiemdoan&theme=monokai)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khiemdoan&theme=monokai)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/khiemdoan?theme=forest&font=DM%20Sans&ext=heatmap)
+
 ## I like working with:
 
 <p style="display: inline-block;" align="center">
